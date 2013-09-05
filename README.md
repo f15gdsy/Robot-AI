@@ -3,6 +3,7 @@ Robot-AI
 
 This project is an experiment for robot AI.
 
+
 Done:
 - Basic pathfinding/obstacle avoidance algorithm based on Potential Field
 
@@ -16,3 +17,11 @@ Todo:
 - 
 
 
+
+Instructions to run
+
+1. download the whole project
+2. open a new Unity project
+3. drag the downloaded project into Unity's new created project
+4. open "test" scene
+5. left mouse click to move the robot, right mouse click to plant obstacle (can be planted at real time)
