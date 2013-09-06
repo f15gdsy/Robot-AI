@@ -13,15 +13,14 @@ Issues:
 Doing:
 - Implement potential trail which can ease the local optima problem
 
-Todo:
-- 
 
-
-
-Instructions to run
+Instructions to run:
 
 1. download the whole project
-2. open a new Unity project
+2. open a new Unity project (Unity needs to be the latest version)
 3. drag the downloaded project into Unity's new created project
 4. open "test" scene
 5. left mouse click to move the robot, right mouse click to plant obstacle (can be planted at real time)
+
+Todo:
+- move manager
